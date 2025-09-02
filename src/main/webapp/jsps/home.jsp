@@ -97,7 +97,7 @@
 <body>
 
     <header>
-        <h1>Welcome to [ LUXMaN COLLEGE 0F DEC0ITS ]</h1>
+        <h1>Welcome to [ Lipstick spoiler Laxmun]</h1>
         <p>Your gateway to a brighter future</p>
     </header>
 
