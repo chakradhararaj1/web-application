@@ -97,7 +97,7 @@
 <body>
 
     <header>
-        <h1>Welcome to [College Name]</h1>
+        <h1>Welcome to [ LUXMaN COLLEGE 0F DEC0ITS ]</h1>
         <p>Your gateway to a brighter future</p>
     </header>
 
