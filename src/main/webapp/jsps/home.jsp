@@ -98,7 +98,7 @@
 
     <header>
         <h1>Welcome to [ Lipstick spoiler Laxmun]</h1>
-        <p>Your gateway to a brighter future</p>
+        <p>Your gateway to a spoil lipsticks</p>
     </header>
 
     <nav>
@@ -116,7 +116,7 @@
     <section class="sections">
         <div class="section">
             <h3>Our Mission</h3>
-            <p>Providing quality education that inspires students to achieve their best potential and shape their future.</p>
+            <p>Providing quality lipsticks that inspires students to spoil their best potential and shape their future.</p>
         </div>
         <div class="section">
             <h3>Course & Programs</h3>
