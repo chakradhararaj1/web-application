@@ -129,7 +129,7 @@
     </section>
 
     <footer>
-        <p>&copy; 2024 [College Name]. All rights reserved. Designed by Your Name.</p>
+        <p>&copy; 2024 [LUXMaN COLLEGE 0F DEC0ITS]. All rights reserved. Designed by Your Name.</p>
     </footer>
 
 </body>
