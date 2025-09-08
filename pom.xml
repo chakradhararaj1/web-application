@@ -97,14 +97,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>connectJnkns_release</name>
-	      <url>http://51.21.1.186:8081/repository/connectJnkns_release/</url>
+	      <name>Amazon-Release</name>
+	      <url>http://13.53.142.226:8081/repository/Amazon-Release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>cnctJnkns_snapshot</name>
-	      <url>http://51.21.1.186:8081/repository/cnctJnkns_snapshot/</url>
+	      <name>Amazon-Snapshot</name>
+	      <url>http://13.53.142.226:8081/repository/Amazon-Snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
